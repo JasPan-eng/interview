@@ -1,0 +1,206 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: #262626;
+  text-align: center;
+  font-family: "Crimson Text";
+  font-size: 70px;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+.jas {color: red;}
+
+  p.thick {
+  font-weight: bold;
+
+}
+
+body {
+  padding: 50px;
+}
+
+@font-face {
+  font-family: "graphik-semi";
+  src: url("Graphik-Semibold.woff") format("woff"),
+    url("Graphik-Semibold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.question-container {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+hr {
+  border: 2px solid black;
+}
+
+.question-container1 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+hr {
+  border: 2px solid black;
+}
+
+.question-container2 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.indented {
+  margin: 0 0 50px 50px;
+}
+
+hr {
+  border: 2px solid black;
+}
+
+.question-container3 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.indented {
+  margin: 0 0 50px 50px;
+}
+
+hr {
+  border: 2px solid black;
+}
+
+.question-container4 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.indented {
+  margin: 0 0 50px 50px;
+}
+
+hr {
+  border: 2px solid black;
+}
+
+.question-container5 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.question5 {
+  background-color: MediumSpringGreen;
+  margin-right: 25px;
+}
+
+.answer5 {
+  background-color: MediumSpringGreen;
+  margin-right: 25px;
+}
+
+.indented {
+  margin: 0 0 50px 50px;
+}
+
+hr {
+  border: 2px solid black;
+}
+
+.question-container6 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.indented {
+  margin: 0 0 50px 50px;
+}
+
+hr {
+  border: 2px solid black;
+}
+
+.question-container7 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.indented {
+  margin: 0 0 50px 50px;
+}
+
+hr {
+  border: 2px solid black;
+}
+
+.question-container8 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.indented {
+  margin: 0 0 50px 50px;
+}
+
+hr {
+  border: 2px solid black;
+}
+
+.question-container9 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.indented {
+  margin: 0 0 50px 50px;
+}
+
+hr {
+  border: 2px solid black;
+}
+
+.question-container10 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.indented {
+  margin: 0 0 50px 50px;
+}
+
+hr {
+  border: 2px solid black;
+}
+
+.question-container11 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.indented {
+  margin: 0 0 50px 50px;
+}
+
+hr {
+  border: 2px solid black;
+}
+
