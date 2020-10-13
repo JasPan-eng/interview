@@ -1,0 +1,125 @@
+/*
+  Coding from Life – Sketch 1: fixed layout
+
+  For sketch 1 you'll be positioning elements relative to an element with a fixed
+  width and height. For this sketch you can position elements by using pixel values.
+*/
+
+body {
+  background-color: black;
+}
+
+.frame {
+  width: 1000px;
+  height: 600px;
+  background: white;
+  margin: 30px auto;
+  position: relative;
+}
+
+
+/* Your CSS goes here */
+.book-top {
+  width: 130px;
+      height: 130px;
+      background: orange;
+      border-radius: 50%;
+      position: absolute;
+      bottom: 200px;
+      right: 300px;
+}
+
+
+.book-middle {
+    width: 150px;
+      height: 150px;
+      background: brown;
+      border-radius: 50%;
+      position: absolute;
+      bottom: 200px;
+      right: 600px;
+}
+
+
+.candle2 {
+  width: 50px;
+      height: 150px;
+      background: gold;
+      border-radius: 50px / 100px;
+      position: absolute;
+      bottom: 300px;
+      right: 600px;
+    }
+
+
+.candle {
+  width: 50px;
+      height: 150px;
+      background: gold;
+      border-radius: 50px / 100px;
+      position: absolute;
+      bottom: 300px;
+      right: 490px;
+    }
+
+}
+
+.flower3 {
+      width: 50px;
+      height: 55px;
+      background: red;
+      border-radius: 50px / 100px;
+      position: absolute;
+      bottom: 400px;
+      right: 540px;
+    }
+
+.flower2 {
+      width: 10px;
+      height: 150px;
+      background: green;
+      border-radius: 50px / 100px;
+      position: absolute;
+      bottom: 300px;
+      right: 540px;
+    }
+
+.flower {
+      width: 10px;
+      height: 150px;
+      background: green;
+      border-radius: 50px / 100px;
+      position: absolute;
+      bottom: 300px;
+      right: 550px;
+    }
+
+.vase {
+      width: 100px;
+      height: 200px;
+      background: black;
+      border-radius: 50px / 100px;
+      position: absolute;
+      bottom: 200px;
+      right: 500px;
+    }
+
+.table {
+   width: 400px;
+   height: 200px;
+   background-color: #b3b3b3;
+   position: absolute;
+   bottom: 0px;
+   left: 0px;
+   }
+   
+ .table2 {
+   width: 400px;
+   height: 200px;
+   background-color: #cccccc;
+   position: absolute;
+   bottom: 0px;
+   left: 400px;
+   
+ }
+
